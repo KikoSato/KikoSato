@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KikoSato, Twitter:@Keeks
+- 👋 Hi, I’m @KikoSato, Twitter:@Keeks, Xbox:@KeeksTag
 - 👀 I’m interested in computer graphics mostly
 - 🌱 I’m currently learning the Rust Language
 - 💞️ I’m looking to collaborate on ...
