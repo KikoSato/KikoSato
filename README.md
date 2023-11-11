@@ -2,7 +2,8 @@
 - 👀 I’m interested in computer graphics mostly
 - 🌱 I’m currently learning the Rust Language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : kikosato@gmail.com 
+...
 
 <!---
 KikoSato/KikoSato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
