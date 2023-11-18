@@ -5,6 +5,8 @@
 - 📫 How to reach me : kikosato@gmail.com 
 ...
 
+Just learning git
+
 <!---
 KikoSato/KikoSato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
